@@ -29,12 +29,13 @@ def data_provider(args, flag):
         batch_size = 1
         freq = args.freq
         Data = Dataset_Pred
-    else:
+    else: # THIS IS TRAIN and val as well
         shuffle_flag = True
         drop_last = False
         batch_size = args.batch_size  # bsz for train and valid
         freq = args.freq
-
+    print(args.root_path,args.data_path,flag,args.seq_len, args.label_len, args.pred_len, args.enc_in,args.features,
+        args.target,timeenc,freq,args.seasonal_patterns)
     data_set = Data(
         root_path=args.root_path,
         data_path=args.data_path,
@@ -51,6 +52,7 @@ def data_provider(args, flag):
         data_set,
         batch_size=batch_size,
         shuffle=shuffle_flag,
-        num_workers=args.num_workers,
+        #num_workers=args.num_workers,
+        num_workers=0,
         drop_last=drop_last)
     return data_set, data_loader

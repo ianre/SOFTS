@@ -102,7 +102,9 @@ class Exp_Custom(Exp_Basic):
             dataset,
             batch_size=self.args.batch_size,
             shuffle=shuffle,
-            num_workers=self.args.num_workers)
+            #num_workers=self.args.num_workers
+            num_workers=0
+            )
         return dataset, dataloader
 
     def _select_optimizer(self):
