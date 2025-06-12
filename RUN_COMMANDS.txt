@@ -1,0 +1,213 @@
+ls
+pwd
+cd .\Desktop\
+ls
+cd .\coda\
+ls
+cd ianre
+ls
+cd .\SOFTS\
+ls
+.\env\Scripts\activate
+ls
+python --version
+code .
+ls
+.\scripts\long_term_forecast\ECL_script\script.ps1
+pip install numpy
+.\scripts\long_term_forecast\ECL_script\script.ps1
+pip install torch
+pip install torch==1
+pip install torch==1.11.0
+.\scripts\long_term_forecast\ECL_script\script.ps1
+pip install pandas
+.\scripts\long_term_forecast\ECL_script\script.ps1
+pip install scikit-learn
+.\scripts\long_term_forecast\ECL_script\script.ps1
+code .
+pwd
+pwd
+ls
+cd .\Desktop\coda\
+ls
+cd ianre
+ls
+cd .\SOFTS\
+ls
+code .
+.\env\Scripts\activate
+ls
+pip freeze > working-reqs.txt
+code .
+& C:/Users/ianre/Desktop/coda/ianre/SOFTS/env/Scripts/Activate.ps1
+ & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '49769' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\entry.py' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '49874' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\entry.py' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '50819' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\entry.py' 
+pip uninstall numpy -y
+pip uninstall numpy -y
+pip install numpy==1.22.4
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '51220' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\entry.py' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '51484' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '52232' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '52268' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\data_provider\data_loader.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+python .\entry.py
+python .\entry.py --model SOFTS --data ETTm1
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '52477' '--' 'c:\Users\ianre\Desktop\coda\ianre\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+python .\entry.py --model SOFTS --data ETTm1
+ls data
+ls
+ls data
+python .\entry.py --model SOFTS --data ETTm1
+cat '/data/ETT/ETTh1.csv'
+python .\entry.py --model SOFTS --data ETTm1
+ls
+cd ..
+cd .\myforks\
+cd .\SOFTS\
+pip freeze > requirements.txt
+ls
+cd .\Desktop\coda\ianre\myforks\SOFTS\
+ls
+python -m venv env-local
+code .
+.\env-local\Scripts\activate
+pip install -r .\requirements.txt
+python .\entry.py
+.\entry.py --model SOFTS --data ETTm1
+python .\entry.py --model SOFTS --data ETTm1
+& c:/Users/ianre/Desktop/coda/ianre/myforks/SOFTS/env-local/Scripts/Activate.ps1
+ & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env-local\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '55140' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ls
+cd .\Desktop\coda\ianre\myforks\SOFTS\
+.\env\Scripts\activate
+python .\entry.py
+python .\entry.py --model SOFTS --data ETTm1
+code .
+& C:/Users/ianre/Desktop/coda/ianre/myforks/SOFTS/env/Scripts/Activate.ps1
+ & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '55383' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '55604' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '56357' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '56550' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '56963' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '57094' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'ETTm1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '57114' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'custom' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '57184' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'custom' 
+.\scripts\long_term_forecast\Traffic_script\softs.ps1
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '57980' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'custom' 
+cd .\Desktop\coda\ianre\myforks\SOFTS\
+.\env\Scripts\activate
+.\scripts\long_term_forecast\Traffic_script\softs.ps1
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58325' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58385' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58464' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58589' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ls
+cd .\Desktop\coda\ianre\
+l
+ls
+cd .\myforks\
+ls
+cd .\SOFTS\
+ls
+ls .\scripts\
+.\env\Scripts\activate
+.\scripts\long_term_forecast\ETT_script\SOFTS_ETTh1.sh
+.\scripts\long_term_forecast\ETT_script\SOFTS_ETTh1.ps1
+.\scripts\long_term_forecast\ETT_script\softs_h1.ps1
+.\scripts\long_term_forecast\Traffic_script\softs.ps1
+& C:/Users/ianre/Desktop/coda/ianre/myforks/SOFTS/env/Scripts/Activate.ps1
+ls
+cd .\Desktop\
+cd coda
+ls
+cd ianre
+ls
+cd .\myforks\
+ls
+cd .\SOFTS\
+ls
+.\env\Scripts\activate
+history
+cat (Get-PSReadlineOption).HistorySavePath
+cd .\Desktop\coda\ianre\
+ls
+cd .\myforks\
+ls
+cd .\SOFTS\
+ls
+.\env\Scripts\activate
+.\scripts\long_term_forecast\ETT_script\SOFTS_ETTh1.sh
+.\scripts\long_term_forecast\ETT_script\SOFTS_ETTh1.ps1
+.\scripts\long_term_forecast\ETT_script\softs_h1.ps1
+ls
+cd .\Desktop\coda\ianre\gluonts\
+cd .\src\gluonts\nursery\robust-mts-attack\
+python -m venv env 
+.\env\Scripts\activate
+python train.py trained_models/traffic/dim10-rank5/ --max_target_dim 10 --rank 5 --epochs 50 --dataset traffic --prediction_length 24
+pwd
+cd .\Desktop\coda\ianre\myforks\
+ls
+cd .\SOFTS\
+ls
+.\env\Scripts\activate
+Get-History > hist.txt
+code .
+# List all commands PSReadLine knows (current + persisted)
+[Microsoft.PowerShell.PSConsoleReadLine]::GetHistory() |`
+  Select-Object -ExpandProperty Line
+[Microsoft.PowerShell.PSConsoleReadLine]::GetHistory() | Select-Object -ExpandProperty Line
+Get-Content (Get-PSReadLineOption).HistorySavePath
+Get-Content (Get-PSReadLineOption).HistorySavePath > hist.txt
+.\scripts\long_term_forecast\Traffic_script\softs.ps1
+& c:/Users/ianre/Desktop/coda/ianre/myforks/SOFTS/env/Scripts/Activate.ps1
+ & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58609' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\run.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58654' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58830' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-1dcnnstock.py' '--model' 'SOFTS' '--data' 'custom' '--root_path' 'C:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\data\stock' '--data_path' 'stocks_MMM_AAPL_CAT.csv' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58875' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58912' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic-for-1dcnn.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58961' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '58974' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+ c:; cd 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS'; & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '59005' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\entry-traffic.py' '--model' 'SOFTS' '--data' 'ETTh1' 
+python .\entry-traffic.py --model SOFTS --data ETTh1
+cd ..
+cd ianre
+cd '.\Desktop\all bridge\'
+ls
+cd .\logger-fluent-bit-bridge\
+cd ..
+cd .\logger-fluent-bit-bridge-add-cm\
+code .
+cd .\Desktop\
+cd '.\all fbo\'
+ls
+cd clean
+code .
+ls
+cd ..
+ls
+cd .\controllers-pkg\
+code .
+& c:/Users/ianre/Desktop/coda/ianre/myforks/SOFTS/env/Scripts/Activate.ps1
+cd .\Desktop\coda\ianre\myforks\SOFTS\
+.\env\Scripts\activate
+pip freeze
+& c:/Users/ianre/Desktop/coda/ianre/myforks/SOFTS/env/Scripts/Activate.ps1
+cd .\Desktop\coda\ianre\myforks\SOFTS\
+ls
+.\env\Scripts\activate
+pip freeze > currentEnv.txt
+cd .\Desktop\coda\ianre\myforks\SOFTS\
+ls
+python --version
+python -m venv env2
+.\env2\Scripts\activate
+pip install -r .\requirements.txt
+python --version
+pip install -r .\requirements.txt
+pip install ipykernel
+pip install matplotlib
+python .\run_simple_softs_on_stocks.py
+pip freeze
+& c:/Users/ianre/Desktop/coda/ianre/myforks/SOFTS/env2/Scripts/Activate.ps1
+ & 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\env2\Scripts\python.exe' 'c:\Users\ianre\.vscode\extensions\ms-python.python-2022.16.1\pythonFiles\lib\python\debugpy\adapter/../..\debugpy\launcher' '65221' '--' 'c:\Users\ianre\Desktop\coda\ianre\myforks\SOFTS\run_simple_softs_on_stocks_with_cnn.py' '--model' 'SOFTS' '--data' 'ETTh1' 
